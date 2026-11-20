@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# The dataset lives on Google Drive, not in Git
+signbridge-dataset/
+# Large model files: share via Drive / GitHub Releases
+models/*.keras
+results/*.png
+.ipynb_checkpoints/
