@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 venv/
 # The dataset lives on Google Drive, not in Git
-signbridge-dataset/
+
 # Large model files: share via Drive / GitHub Releases
 models/*.keras
 results/*.png
